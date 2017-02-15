@@ -1,4 +1,4 @@
-group 'com.github.lavenderx'
+group 'org.lavenderx'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'idea'

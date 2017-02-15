@@ -1,4 +1,4 @@
-package com.github.lavenderx.mongodb.queue.core;
+package org.lavenderx.mongodb.queue;
 
 /**
  * @author baymax
